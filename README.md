@@ -1,0 +1,2 @@
+This is a senior project where I created a website that uses data gathered from a mobile app and stores that in a database. Then that data is used to display significant statistics for specific individuals or a team.
+Included is a login feature to only allow those on the team to view the data, and if there was someone who got through there is protection against injection attacks when using SQL to query for the data.
